@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Avipriya.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning MERN Stack.
+- 📫 How to reach me ... Drop an email to avipriya.pal2000@gmail.com.
+- 😄 Pronouns: ... She
