@@ -31,7 +31,7 @@
 
 ## 📈 GitHub Stats
 
-![Avipriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avipriyapal&show_icons=true&theme=radical)
+![Avipriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avipriya02&show_icons=true&theme=radical)
 
 ---
 
