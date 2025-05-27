@@ -27,6 +27,6 @@
 
 ## 📂 Featured Projects
 🔹 [**Cook & Eat App**](https://cook-and-eat.netlify.app/) – A recipe search app built using third-party APIs (React)  
-🔹 [**DevTinder App**](https://melodious-druid-02a6ca.netlify.app/) – A MERN stack matchmaking app for developers
+🔹 [**DevTinder App**](https://devtinder-app.netlify.app/) – A MERN stack matchmaking app for developers
 
 🔗 _Let’s build something amazing together!_
