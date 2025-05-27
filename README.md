@@ -29,10 +29,4 @@
 🔹 [**Cook & Eat App**](https://cook-and-eat.netlify.app/) – A recipe search app built using third-party APIs (React)  
 🔹 [**DevTinder App**](https://melodious-druid-02a6ca.netlify.app/) – A MERN stack matchmaking app for developers
 
-## 📈 GitHub Stats
-
-![Avipriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avipriya02&show_icons=true&theme=radical)
-
----
-
 🔗 _Let’s build something amazing together!_
