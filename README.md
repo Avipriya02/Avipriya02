@@ -23,7 +23,7 @@
 ## 🌱 Currently Exploring
 - 🔧 Backend Development with **Node.js & Express**
 - 📦 API integration and real-world project development
-- ⚙️ Deployment and CI/CD basics
+- ⚙️ Deployment
 
 ## 📂 Featured Projects
 🔹 [**Cook & Eat App**](https://cook-and-eat.netlify.app/) – A recipe search app built using third-party APIs (React)  
